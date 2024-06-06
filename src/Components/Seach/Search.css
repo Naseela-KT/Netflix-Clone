@@ -1,0 +1,8 @@
+.searchDiv{
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+img:hover{
+        transform: scale(1.1);
+}

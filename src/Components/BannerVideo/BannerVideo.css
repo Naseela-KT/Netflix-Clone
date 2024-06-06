@@ -1,0 +1,14 @@
+.videoDiv{
+    margin-top: 60px;
+}
+
+.close-btn{
+    position: fixed;
+    top: 130px;
+    right: 35px;
+    color: aliceblue;
+    background-color: #000;
+    border: none;
+    font-size: larger;
+    cursor: pointer;
+}
